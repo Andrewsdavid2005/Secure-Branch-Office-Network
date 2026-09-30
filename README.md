@@ -1,4 +1,4 @@
-# 🔐 Secure Branch Office Network
+# Secure Branch Office Network
 
 A secure and segmented **Branch Office Network** designed and implemented using **Cisco Packet Tracer**.
 
@@ -6,7 +6,7 @@ This project demonstrates practical enterprise networking concepts including **V
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to design a small but secure branch-office network where different departments are logically separated using VLANs.
 
@@ -28,7 +28,7 @@ The project simulates a real-world branch office containing **HR, IT, Guest user
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are:
 
@@ -45,7 +45,7 @@ The main objectives of this project are:
 
 ---
 
-# 🏗️ Network Topology
+# Network Topology
 
 ## Devices Used
 
